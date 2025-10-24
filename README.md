@@ -45,9 +45,6 @@ Haz commit de tus cambios (git commit -m 'Add some AmazingFeature')
 Haz push a la rama (git push origin feature/AmazingFeature)
 Abre un Pull Request
 
-Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-Autor
 Tu Nombre
 
 GitHub: @tuusuario
@@ -55,3 +52,5 @@ Email: tuemail@ejemplo.com
 
 Fecha de Creación
 Octubre 2025
+
+Aqui se hizo una nueva colaboracion para agregarle nuevas cosas para que quede mas claro aun sobre de que trata
