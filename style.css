@@ -6,11 +6,21 @@
 
 /* Variables CSS */
 :root {
-    --color-primario: #007bff;
+    --color-primario: darkred;
     --color-secundario: #6c757d;
     --color-fondo: #f8f9fa;
     --color-texto: #333;
     --fuente-principal: 'Arial', sans-serif;
+}
+
+button{
+    background-color: lightblue;
+    color: 000000;
+    border-radius: 100px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s;
 }
 
 /* Estilos generales */
@@ -80,7 +90,7 @@ h2 {
 
 /* Footer */
 footer {
-    background-color: var(--color-secundario);
+    background-color: darkcyan;
     color: white;
     text-align: center;
     padding: 1rem 0;
